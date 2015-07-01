@@ -1,6 +1,7 @@
 {
   "name": "polymer-starter-kit",
   "private": true,
+  "directory": "app/bower_components",
   "dependencies": {
     "iron-elements": "PolymerElements/iron-elements#1.0.0",
     "paper-elements": "PolymerElements/paper-elements#1.0.1",
