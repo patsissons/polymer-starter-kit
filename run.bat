@@ -1,1 +1,1 @@
-START /B .\node_modules\.bin\electron .\app.js
+.\node_modules\.bin\electron .\app.js
