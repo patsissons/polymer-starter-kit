@@ -10,7 +10,7 @@ app.on('ready', function () {
   win = new BrowserWindow({
     title: 'Polymer Starter Kit, Electron Edition',
     width: 860,
-    height: 470,
+    height: 950,
     show: false
   })
 
